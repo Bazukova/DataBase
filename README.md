@@ -24,13 +24,13 @@ int-числовой тип;
 
 data-дата;
 
-nvarchar()
+nvarchar()-текстовый
 
 datetime
 
 varbinary
 
-money
+money-денежный
 
 bit
 
